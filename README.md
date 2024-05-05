@@ -3,6 +3,9 @@
 ## NumPy
     Uses python by bringing super fast multi dimentional arrays that take less memory that built in lists in python.
     So any time you want to work with large, multi dimentional arrays, NumPy is the best choice.
+
+    pip install numpy
+
     - To Return tuple of the number of rows and columns
        two_dimentional_array = np.array([[1, 2, 3], [4, 5, 6]])
        two_dimentional_array.shape
